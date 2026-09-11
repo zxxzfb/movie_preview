@@ -567,6 +567,22 @@
       "date": "2026.09.10 ~ 2026.09.22",
       "event_type": "시사회",
       "sent_at": "2026-09-11T09:09:52"
+    },
+    {
+      "id": "b45d53bbc5d96359ab0cae6bcd58fdad",
+      "title": "<인턴> 개봉3주차 무대인사",
+      "theater": "Megabox",
+      "date": "2026.10.03 ~ 2026.10.04",
+      "event_type": "무대인사",
+      "sent_at": "2026-09-11T15:14:37"
+    },
+    {
+      "id": "bacbc147a5ed1b3b6df6c4d0c43f1b0c",
+      "title": "<가능한 사랑> 스페셜 GV",
+      "theater": "LotteCinema",
+      "date": "2026.09.22",
+      "event_type": "무대인사",
+      "sent_at": "2026-09-11T15:14:37"
     }
   ]
 }
