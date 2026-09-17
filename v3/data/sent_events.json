@@ -671,6 +671,22 @@
       "date": "2026.09.15 ~ 2026.09.20",
       "event_type": "버튼형",
       "sent_at": "2026-09-16T09:09:30"
+    },
+    {
+      "id": "d4ed921aa51fc0b9c13420c3c08ab4e7",
+      "title": "다시 만나는 <비밀상영회>",
+      "theater": "LotteCinema",
+      "date": "2026.09.22",
+      "event_type": "무대인사",
+      "sent_at": "2026-09-17T15:15:08"
+    },
+    {
+      "id": "e469de655f41b424491746a121bcc589",
+      "title": "<환희의 얼굴> 경기인디시네마관 GV",
+      "theater": "LotteCinema",
+      "date": "2026.10.02",
+      "event_type": "무대인사",
+      "sent_at": "2026-09-17T15:15:08"
     }
   ]
 }
